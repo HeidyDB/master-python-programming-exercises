@@ -10,4 +10,4 @@ def car_route(n,m):
 
 
 # Invoke the function with two integers
-print("recorrido en dias:" ,car_route(4, 8))
+print("reco<rrido en dias:" ,car_route(4, 8))
